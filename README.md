@@ -37,57 +37,55 @@ scalable APIs, business applications and products focused on results.
 <tr>
 <td valign="middle"><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="./assets/icons/java.svg" alt="Java" title="Java" width="40" height="40" />
+<img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+<img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+<img src="./assets/icons/html5.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+<img src="./assets/icons/css3.svg" alt="CSS3" title="CSS3" width="40" height="40" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="./assets/icons/spring.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" />
+<img src="./assets/icons/hibernate.svg" alt="Hibernate" title="Hibernate" width="40" height="40" />
+<img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+<img src="./assets/icons/nestjs.svg" alt="NestJS" title="NestJS" width="40" height="40" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="./assets/icons/angular.svg" alt="Angular" title="Angular" width="40" height="40" />
+<img src="./assets/icons/rxjs.svg" alt="RxJS" title="RxJS" width="40" height="40" />
+<img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+<img src="./assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Databases</b></td>
 <td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+<img src="./assets/icons/mariadb.svg" alt="MariaDB" title="MariaDB" width="40" height="40" />
+<img src="./assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>DevOps</b></td>
 <td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="./assets/icons/docker.svg" alt="Docker" title="Docker" width="40" height="40" />
+<img src="./assets/icons/amazonwebservices.svg" alt="AWS" title="AWS" width="40" height="40" />
+<img src="./assets/icons/linux.svg" alt="Linux" title="Linux" width="40" height="40" />
+<img src="./assets/icons/git.svg" alt="Git" title="Git" width="40" height="40" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="./assets/icons/intellij.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" />
+<img src="./assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+<img src="./assets/icons/postman.svg" alt="Postman" title="Postman" width="40" height="40" />
+<img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="40" height="40" />
 </td>
 </tr>
 </table>
