@@ -35,7 +35,7 @@ whatever each project needs.
 
 <div align="right">
 
-**[More about me and the technologies I work with →](https://lucasaramberry.dev/#sobre-mi)**
+**[More about me and the technologies I work with →](https://lucasaramberry.dev/#about-me)**
 
 </div>
 
@@ -49,6 +49,6 @@ whatever each project needs.
 
 I'm available for freelance work and collaborations.
 
-<a href="https://lucasaramberry.dev/#contacto"><img src="./assets/buttons/lets-talk.svg" alt="Let's talk" height="40" /></a>
+<a href="https://lucasaramberry.dev/#contact"><img src="./assets/buttons/lets-talk.svg" alt="Let's talk" height="40" /></a>
 
 </div>
