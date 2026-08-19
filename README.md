@@ -30,9 +30,6 @@ I design, develop and deploy **custom web software** for real clients — compan
 entrepreneurs and professionals — from websites and landing pages to e-commerce
 and complex web applications.
 
-I work mainly with **Java and Spring Boot, NestJS and Angular**, and adapt to
-whatever each project needs.
-
 <div align="right">
 
 **[More about me and the technologies I work with →](https://lucasaramberry.dev/#about-me)**
