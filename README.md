@@ -13,7 +13,7 @@ scalable APIs, business applications and products focused on results.
 
 <br/>
 
-<a href="https://lucasaramberry.dev"><img src="./assets/buttons/sitio-web.svg" alt="Sitio Web" height="40" /></a>
+<a href="https://lucasaramberry.dev"><img src="./assets/buttons/website.svg" alt="Website" height="40" /></a>
 <a href="https://www.linkedin.com/in/lucas-aramberry"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="40" /></a>
 <a href="https://www.instagram.com/la.software.solutions"><img src="./assets/buttons/instagram.svg" alt="Instagram" height="40" /></a>
 
