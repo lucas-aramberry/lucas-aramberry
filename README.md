@@ -26,12 +26,8 @@ scalable APIs, business applications and products focused on results.
 
 ## About me
 
-- 🏗️ I design and develop **custom web software**: corporate sites, landing pages, e-commerce and business applications — built to be fast, scalable and maintainable.
-- 💬 Open to freelance work, collaborations and new opportunities — **[get in touch through my website](https://lucasaramberry.dev/#contacto)**.
-
-<br/>
-
-## Tech Stack
+I design and develop **custom web software**: corporate sites, landing pages, e-commerce
+and business applications — built to be fast, scalable and maintainable.
 
 <table>
 <tr>
@@ -89,6 +85,12 @@ scalable APIs, business applications and products focused on results.
 </td>
 </tr>
 </table>
+
+<div align="right">
+
+**[More about me and how I work →](https://lucasaramberry.dev/#sobre-mi)**
+
+</div>
 
 <br/>
 
